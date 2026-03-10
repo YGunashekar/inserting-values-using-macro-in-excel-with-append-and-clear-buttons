@@ -3,3 +3,8 @@
 
 # example demo from youtube source
 [![Watch the video](https://img.youtube.com/vi/pxHrZqjv3KI/0.jpg)](https://www.youtube.com/watch?v=pxHrZqjv3KI)
+
+# exceptions and rules when using macro
+### macros are deleted every time when using because you are it as saving as excel file or else when sharing it with others they get deleted by excel file.  save  it as macro enabled excel file .xlsm
+###  keep developer options on when using macro
+[![Watch the video](https://img.youtube.com/vi/pxHrZqjv3KI/0.jpg)](https://www.youtube.com/watch?v=pxHrZqjv3KI)
