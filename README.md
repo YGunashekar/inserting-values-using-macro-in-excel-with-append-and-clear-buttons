@@ -9,4 +9,4 @@
 ###  keep developer options on when using macro
 
 # this youtube page consists rules to use of macros
-[![Watch the video](https://img.youtube.com/vi/bu2uY2_0TK80.jpg)](https://www.youtube.com/watch?v=bu2uY2_0TK8)
+[![Watch the video](https://img.youtube.com/vi/bu2uY2_0TK8/0.jpg)](https://www.youtube.com/watch?v=bu2uY2_0TK8)
